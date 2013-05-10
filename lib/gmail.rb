@@ -175,3 +175,4 @@ end
 
 require 'gmail/mailbox'
 require 'gmail/message'
+require 'gmail/imap_extensions'
